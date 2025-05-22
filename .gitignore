@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python source files, json token stuff, and local .env
+/python_source
+*secret*
+*.env
